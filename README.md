@@ -7,7 +7,7 @@ php artisan key:generate
 ``` 
 and 
 ```bash
-php artisan jwt:secret)
+php artisan jwt:secret
 ```
 ```bash 
 php artisan migrate
