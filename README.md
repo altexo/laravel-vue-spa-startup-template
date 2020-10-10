@@ -16,12 +16,15 @@ php artisan migrate
 npm install
 ```
 # Usage
+
 Development
 ```bash
+# run laravel
+php artisan serve
+
 # build and watch
 npm run watch
-```
-```bash
+
 # serve with hot reloading
 npm run hot
 ```
