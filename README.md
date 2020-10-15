@@ -1,4 +1,8 @@
 # Installation
+First run
+```bash
+composer install
+```
 
 Edit .env and set your database connection details
 (When installed via git clone or download, run 
