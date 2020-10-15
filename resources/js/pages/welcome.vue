@@ -25,7 +25,7 @@
       </div>
 
       <div class="links">
-        <a href="https://github.com/cretueusebiu/laravel-vue-spa">github.com/cretueusebiu/laravel-vue-spa</a>
+        <a href=https://github.com/altexo/laravel-vue-spa-startup-template">github.com/altexo/laravel-vue-spa-startup-template</a>
       </div>
     </div>
   </div>
